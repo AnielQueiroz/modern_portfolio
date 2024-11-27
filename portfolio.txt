@@ -9,3 +9,4 @@ UIs utilizadas
 3. Text Generate Effect: https://ui.aceternity.com/components/text-generate-effect
 4. Floating Navbar: npx aceternity-ui@latest add floating-navbar
 5. Bento Grid: https://ui.aceternity.com/components/bento-grid
+6. Background Gradient Animation: https://ui.aceternity.com/components/background-gradient-animation
