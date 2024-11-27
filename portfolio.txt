@@ -1,0 +1,2 @@
+Dependencias utilizadas
+1. Next Theme: https://ui.shadcn.com/docs/dark-mode/next
