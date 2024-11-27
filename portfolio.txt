@@ -1,2 +1,8 @@
 Dependencias utilizadas
 1. Next Theme: https://ui.shadcn.com/docs/dark-mode/next
+
+UIs utilizadas
+0. npx aceternity-ui@latest init
+1. Spotlight: https://ui.aceternity.com/components/spotlight
+2. Text Generate Effect: https://ui.aceternity.com/components/text-generate-effect
+3. 
