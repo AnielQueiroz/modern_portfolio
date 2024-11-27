@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Portfólio do Aniel",
-  description: "Um moderno e dinâmico portfólio com Next.js",
+  description: "Um moderno e minimalista portfólio com Next.js",
 };
 
 export default function RootLayout({
