@@ -10,3 +10,4 @@ UIs utilizadas
 4. Floating Navbar: npx aceternity-ui@latest add floating-navbar
 5. Bento Grid: https://ui.aceternity.com/components/bento-grid
 6. Background Gradient Animation: https://ui.aceternity.com/components/background-gradient-animation
+7. GitHub Globe: https://ui.aceternity.com/components/github-globe
