@@ -4,5 +4,6 @@ Dependencias utilizadas
 UIs utilizadas
 0. npx aceternity-ui@latest init
 1. Spotlight: https://ui.aceternity.com/components/spotlight
-2. Text Generate Effect: https://ui.aceternity.com/components/text-generate-effect
-3. 
+2. Grid and Dot Backgrounds: https://ui.aceternity.com/components/grid-and-dot-backgrounds
+3. Text Generate Effect: https://ui.aceternity.com/components/text-generate-effect
+4. 
