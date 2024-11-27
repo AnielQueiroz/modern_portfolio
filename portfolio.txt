@@ -7,4 +7,5 @@ UIs utilizadas
 1. Spotlight: https://ui.aceternity.com/components/spotlight
 2. Grid and Dot Backgrounds: https://ui.aceternity.com/components/grid-and-dot-backgrounds
 3. Text Generate Effect: https://ui.aceternity.com/components/text-generate-effect
-4. 
+4. Floating Navbar: npx aceternity-ui@latest add floating-navbar
+5. Bento Grid: https://ui.aceternity.com/components/bento-grid
