@@ -1,14 +1,14 @@
 export const navItems = [
     { name: "Sobre", link: "#about" },
     { name: "Projetos", link: "#projects" },
-    { name: "Depoimentos", link: "#testimonials" },
+    // { name: "Depoimentos", link: "#testimonials" },
     { name: "Contato", link: "#contact" },
   ];
   
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "Priorizo a colaboração do cliente, promovendo uma comunicação aberta",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -59,7 +59,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Você quer começar um projeto?",
+      title: "Você quer começar um projeto junto?",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
