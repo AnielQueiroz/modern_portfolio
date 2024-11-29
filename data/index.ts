@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "Priorizo a colaboração do cliente, promovendo uma comunicação aberta",
+      title: "Valorizo a parceria com o cliente, incentivando um diálogo transparente",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -29,7 +29,7 @@ export const navItems = [
     {
       id: 3,
       title: "Minha stack",
-      description: "Eu constantemente tento melhorar",
+      description: "Em constante aprendizado...",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Entusiasta da tecnologia e apaixonado por desenvolvimento",
+      title: "Aficionado por tecnologia e entusiasta do desenvolvimento",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -59,7 +59,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Você quer começar um projeto junto?",
+      title: "Gostaria de iniciar um projeto em parceria?",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
