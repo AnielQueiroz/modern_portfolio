@@ -2,6 +2,7 @@ Dependencias utilizadas
 1. Next Theme: https://ui.shadcn.com/docs/dark-mode/next
 2. React Icons: https://www.npmjs.com/package/react-icons
 3. React Lottie
+4. Sentry
 
 UIs utilizadas
 0. npx aceternity-ui@latest init
