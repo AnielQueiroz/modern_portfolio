@@ -13,3 +13,4 @@ UIs utilizadas
 5. Bento Grid: https://ui.aceternity.com/components/bento-grid
 6. Background Gradient Animation: https://ui.aceternity.com/components/background-gradient-animation
 7. GitHub Globe: https://ui.aceternity.com/components/github-globe
+8. Infinite Moving Cards: https://ui.aceternity.com/components/infinite-moving-cards
