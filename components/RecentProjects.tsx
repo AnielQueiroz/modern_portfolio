@@ -13,11 +13,11 @@ const RecentProjects = () => {
     }, [])
 
     if (!isClient) {
-        return <h1>{isClient ? 'This is never prerendered' : 'Prerendered'}</h1>
+        return <h1>This is never prerendered</h1>
     }
 
     return (
-        <div id="project" className="py-20">
+        <div id="projects" className="py-20">
             <h1 className="heading">
                 Um pequena seleção de {' '}
                 <span className="text-purple">meus projetos recentes</span>
