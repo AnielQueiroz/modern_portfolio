@@ -14,3 +14,4 @@ UIs utilizadas
 6. Background Gradient Animation: https://ui.aceternity.com/components/background-gradient-animation
 7. GitHub Globe: https://ui.aceternity.com/components/github-globe
 8. Infinite Moving Cards: https://ui.aceternity.com/components/infinite-moving-cards
+9. Moving Border: https://ui.aceternity.com/components/moving-border
