@@ -15,3 +15,4 @@ UIs utilizadas
 7. GitHub Globe: https://ui.aceternity.com/components/github-globe
 8. Infinite Moving Cards: https://ui.aceternity.com/components/infinite-moving-cards
 9. Moving Border: https://ui.aceternity.com/components/moving-border
+10. Canvas Reveal Effect: https://ui.aceternity.com/components/canvas-reveal-effect
