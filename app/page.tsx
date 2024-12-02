@@ -29,7 +29,7 @@ export default function Home() {
           navItemsWithIcons
         } />
         <Hero />
-        {/* <Grid /> */}
+        <Grid />
         <RecentProjects />
         {/* <Clients /> */}
         <Experience />
