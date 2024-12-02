@@ -28,8 +28,8 @@ export default function Home() {
         <FloatingNav navItems={
           navItemsWithIcons
         } />
-        {/* <Hero />
-        <Grid />
+        <Hero />
+        {/* <Grid />
         <RecentProjects /> */}
         {/* <Clients /> */}
         {/* <Experience />
