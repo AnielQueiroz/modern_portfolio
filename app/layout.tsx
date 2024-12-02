@@ -1,7 +1,10 @@
+'use client'
+
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import { ThemeProvider } from "./theme-provider";
+import { useEffect } from "react";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -14,10 +17,10 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
-export const metadata: Metadata = {
-  title: "Portfólio do Aniel",
-  description: "Um moderno e minimalista portfólio com Next.js",
-};
+// export const metadata: Metadata = {
+//   title: "Portfólio do Aniel",
+//   description: "Um moderno e minimalista portfólio com Next.js",
+// };
 
 export default function RootLayout({
   children,
