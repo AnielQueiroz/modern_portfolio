@@ -6,14 +6,28 @@ import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/floating-navbar";
-import { navItems } from "@/data";
+import { navItems, type NavItemsType } from "@/data";
+import { ReactNode } from "react";
+import { FaDiagramProject, FaEnvelope, FaQuoteRight, FaUser } from "react-icons/fa6";
 
 export default function Home() {
+  const icons = {
+    Sobre: <FaUser />,
+    Projetos: <FaDiagramProject />,
+    Depoimentos: <FaQuoteRight />,
+    Contato: <FaEnvelope />
+  }
+
+  const navItemsWithIcons: (NavItemsType & { icon: JSX.Element })[] = navItems.map(item => ({
+    ...item,
+    icon: icons[item.name]
+  }));
+
   return (
-    <main className="relative bg-black-100 flex justify-center items-center flex-col overflow-hidden mx-auto sm:px-10 px-5">
+    <main className="relative bg-black-100 flex justify-center items-center flex-col mx-auto sm:px-10 px-5 overflow-clip">
       <div className="max-w-7xl w-full">
         <FloatingNav navItems={
-          navItems
+          navItemsWithIcons
         } />
         <Hero />
         <Grid />
