@@ -6,7 +6,7 @@ import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/floating-navbar";
-import { BentoGridDemo } from "@/components/ui/teste-bento";
+import { BentoGridDemo } from "@/components/teste-bento";
 import { navItems, type NavItemsType } from "@/data";
 import { FaDiagramProject, FaEnvelope, FaQuoteRight, FaUser } from "react-icons/fa6";
 
