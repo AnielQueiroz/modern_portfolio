@@ -5,7 +5,8 @@ import { gridItems } from '@/data'
 const Grid = () => {
     return (
         <section id="about">
-            <BentoGrid>
+            <p>Bento Grid</p>
+            {/* <BentoGrid>
                 {gridItems.map(({
                     id,
                     title,
@@ -28,7 +29,7 @@ const Grid = () => {
                         titleClassName={titleClassName}
                     />
                 ))}
-            </BentoGrid>
+            </BentoGrid> */}
         </section>
     )
 }
