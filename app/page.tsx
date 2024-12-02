@@ -28,13 +28,13 @@ export default function Home() {
         <FloatingNav navItems={
           navItemsWithIcons
         } />
-        <Hero />
+        {/* <Hero />
         <Grid />
-        <RecentProjects />
+        <RecentProjects /> */}
         {/* <Clients /> */}
-        <Experience />
+        {/* <Experience />
         <Approach />
-        <Footer />
+        <Footer /> */}
       </div>
     </main>
   );
