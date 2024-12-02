@@ -7,7 +7,6 @@ import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/floating-navbar";
 import { navItems, type NavItemsType } from "@/data";
-import { ReactNode } from "react";
 import { FaDiagramProject, FaEnvelope, FaQuoteRight, FaUser } from "react-icons/fa6";
 
 export default function Home() {
