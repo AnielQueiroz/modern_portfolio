@@ -31,7 +31,6 @@ export default function Home() {
         } />
         <Hero />
         <Grid />
-        {/* <BentoGridDemo /> */}
         <RecentProjects />
         {/* <Clients /> */}
         <Experience />
