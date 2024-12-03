@@ -30,8 +30,8 @@ export default function Home() {
           navItemsWithIcons
         } />
         <Hero />
-        {/* <Grid /> */}
-        <BentoGridDemo />
+        <Grid />
+        {/* <BentoGridDemo /> */}
         <RecentProjects />
         {/* <Clients /> */}
         <Experience />
