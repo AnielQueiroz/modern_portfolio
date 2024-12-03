@@ -15,23 +15,22 @@
   <h3 align="center">Um Portfólio Moderno em Next.js</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 <a name="table">Tabela de Conteúdos</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
+1. 🤖 [Introdução](#introduction)
+2. ⚙️ [Stack do Projeto](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code to Copy](#snippets)
+4. 🤸 [Início Rápido](#quick-start)
+5. 🕸️ [Código para copiar](#snippets)
 6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">🤖 Introdução</a>
 
-Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
+Construído com Next.js para gerenciar a interface do usuário, Three.js para renderizar elementos 3D, Framer motion para animações bonitas e estilizado com TailwindCSS, este portfólio demonstra as habilidades do desenvolvedor de uma maneira única que cria um impacto duradouro.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
+Se você está começando e precisa de assistência ou enfrenta algum bug, junte-se à nossa comunidade ativa no Discord com mais de ** 34k+ ** membros. É um lugar onde as pessoas se ajudam.
 
 ## <a name="tech-stack">⚙️ Stack do Projeto</a>
 
@@ -647,13 +646,4 @@ style={{
 
 ## <a name="links">🔗 Assets</a>
 
-Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
+Assets usados nesse projeto podem ser encontrados aqui [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
