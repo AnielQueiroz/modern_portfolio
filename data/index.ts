@@ -15,7 +15,7 @@ export const gridItems = [
 	{
 		id: 1,
 		title:
-			"Valorizo a parceria com o cliente, incentivando um diálogo transparente",
+			"Valorizo a parceria com diálogo transparente",
 		description: "",
 		className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
 		imgClassName: "w-full h-full",
@@ -25,7 +25,7 @@ export const gridItems = [
 	},
 	{
 		id: 2,
-		title: "Sou muito flexível para comunicações, independente do fuso",
+		title: "Sempre disponível para comunicações, independente do fuso horário",
 		description: "",
 		className: "lg:col-span-2 md:col-span-3 md:row-span-2",
 		imgClassName: "",
@@ -85,14 +85,14 @@ export const projects = [
 		iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/pg.svg", "prisma.svg"],
 		link: "https://gendapro.vercel.app/",
 	},
-	// {
-	// 	id: 2,
-	// 	title: "Yoom - Video Conferencing App",
-	// 	des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-	// 	img: "/p2.svg",
-	// 	iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-	// 	link: "https://github.com/adrianhajdin/zoom-clone",
-	// },
+	{
+		id: 2,
+		title: "Sistema de Registro Chamados",
+		des: "Este sistema foi desenvolvido para gerenciar e acompanhar chamados técnicos de suporte.",
+		img: "/nenel_chamados.png",
+		iconLists: ["/node.svg", "/tail.svg", "/gulp.svg", "/mongodb.svg"],
+		link: "https://github.com/AnielQueiroz/sistemaDeChamados.git",
+	},
 	// {
 	// 	id: 3,
 	// 	title: "AI Image SaaS - Canva Application",
@@ -181,17 +181,17 @@ export const workExperience = [
 	{
 		id: 1,
 		title: "Desenvolvedor Fullstack (Focado no Frontend)",
-		desc: "Atuo no desenvolvimento de uma plataforma para laudos médicos ditados, utilizando jQuery, Bootstrap e PHP. Foco na criação de interfaces intuitivas e integradas, incluindo soluções com OpenAI para aprimorar a correção automática de laudos, otimizando a eficiência e a precisão no setor médico.",
+		desc: "Atuo no desenvolvimento de uma plataforma para laudos médicos ditados, utilizando jQuery, Bootstrap e PHP. Foco na criação de interfaces intuitivas e integradas, incluindo soluções com IA para aprimorar a correção automática de laudos, otimizando a eficiência e a precisão no setor médico.",
 		className: "md:col-span-2",
 		thumbnail: "/exp1.svg",
 	},
-	// {
-	// 	id: 2,
-	// 	title: "Mobile App Dev - JSM Tech",
-	// 	desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-	// 	className: "md:col-span-2", // change to md:col-span-2
-	// 	thumbnail: "/exp2.svg",
-	// },
+	{
+		id: 2,
+		title: "Sistema de Registro Chamados",
+		desc: "Este sistema foi desenvolvido para gerenciar e acompanhar chamados técnicos, oferecendo uma interface eficiente e responsiva com Tailwind. Utilizando Node.js e Express no backend, arquitetura MVC (Model-View-Controller) para garantir modularidade e manutenibilidade. O MongoDB para armazenar os registros de forma escalável, e Gulp para automatizar tarefas no frontend, otimizando a construção de assets como CSS e JavaScript.",
+		className: "md:col-span-2", // change to md:col-span-2
+		thumbnail: "/exp2.svg",
+	},
 	// {
 	// 	id: 3,
 	// 	title: "Freelance App Dev Project",
