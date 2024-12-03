@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/FTH6Dn3AyIQ" target="_blank">
-      <img src="https://github.com/adrianhajdin/portfolio/assets/151519281/c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8" alt="Project Banner">
+    <a href="https://anieldev.pro" target="_blank">
+      <img src="https://github.com/AnielQueiroz/modern_portfolio/blob/main/public/banner_port.png?raw=true" alt="Banner">
     </a>
   <br />
 
@@ -12,40 +12,27 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A Modern Next.js Portfolio</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <h3 align="center">Um Portfólio Moderno em Next.js</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 <a name="table">Tabela de Conteúdos</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
+1. 🤖 [Introdução](#introduction)
+2. ⚙️ [Stack do Projeto](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code to Copy](#snippets)
+4. 🤸 [Início Rápido](#quick-start)
+5. 🕸️ [Código para copiar](#snippets)
 6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+## <a name="introduction">🤖 Introdução</a>
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+Construído com Next.js para gerenciar a interface do usuário, Three.js para renderizar elementos 3D, Framer motion para animações bonitas e estilizado com TailwindCSS, este portfólio demonstra as habilidades do desenvolvedor de uma maneira única que cria um impacto duradouro.
 
-<a href="https://youtu.be/FTH6Dn3AyIQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+Se você está começando e precisa de assistência ou enfrenta algum bug, junte-se à nossa comunidade ativa no Discord com mais de ** 34k+ ** membros. É um lugar onde as pessoas se ajudam.
 
-## <a name="introduction">🤖 Introduction</a>
-
-Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️ Stack do Projeto</a>
 
 - Next.js
 - Three.js
@@ -54,56 +41,56 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Hero**: Captivating introduction featuring a spotlight effect and dynamic background.
+👉 **Hero**: Introdução cativante com efeito de holofote e fundo dinâmico..
 
-👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
+👉 **Bento Grid**: Layout moderno apresentando informações pessoais usando técnicas de design CSS de ponta..
 
-👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
+👉 **Elements 3D**:  Elementos de design 3D interativos, como um globo estilo GitHub e efeitos de hover em cartões, adicionando profundidade e engajamento..
 
-👉 **Testimonials**: Dynamic testimonials area with scrolling or animated content for enhanced engagement.
+👉 **Depoimentos**: Área de depoimentos dinâmicos com conteúdo rolável ou animado para maior engajamento..
 
-👉 **Work Experience**: Prominent display of professional background for emphasis and credibility.
+👉 **Experiência**: Exibição proeminente do histórico profissional para ênfase e credibilidade..
 
-👉 **Canvas Effect**: Innovative use of HTML5 canvas to create visually striking effects in the "approaches" section.
+👉 **Efeito Canvas**: Uso inovador do canvas HTML5 para criar efeitos visualmente impressionantes na seção 'abordagens'.
 
-👉 **Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
+👉 **Responsividade**: Adaptabilidade perfeita em todos os dispositivos, garantindo a melhor experiência de visualização para cada usuário..
 
-and many more, including code architecture and reusability 
+e muitos outros, incluindo arquitetura de código e reutilização
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">🤸 Início Rápido</a>
 
-Follow these steps to set up the project locally on your machine.
+Siga estas etapas para configurar o projeto localmente em sua máquina.
 
-**Prerequisites**
+**Pre-requisitos**
 
-Make sure you have the following installed on your machine:
+Certifique-se de ter o seguinte instalado em sua máquina:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
+**Clone o repositório**
 
 ```bash
-git clone https://github.com/adrianhajdin/portfolio.git
-cd portfolio
+git clone https://github.com/AnielQueiroz/modern_portfolio.git
+cd modern-portfolio
 ```
 
-**Installation**
+**Instalação**
 
-Install the project dependencies using npm:
+Instale as dependências do projeto usando npm:
 
 ```bash
 npm install
 ```
 
-**Running the Project**
+**Executando o projeto**
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o projeto.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
@@ -112,10 +99,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ```typescript
 export const navItems = [
-  { name: "About", link: "#about" },
-  { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
-  { name: "Contact", link: "#contact" },
+  { name: "Sobre", link: "#about" },
+  { name: "Projetos", link: "#projects" },
+  { name: "Depoimentos", link: "#testimonials" },
+  { name: "Contatos", link: "#contact" },
 ];
 
 export const gridItems = [
@@ -659,13 +646,4 @@ style={{
 
 ## <a name="links">🔗 Assets</a>
 
-Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
+Assets usados nesse projeto podem ser encontrados aqui [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
