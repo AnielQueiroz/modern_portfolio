@@ -110,6 +110,7 @@ export const BentoGridItem = ({
 					</div>
 
 					{id === 2 && <GlobeDemo />}
+					{/* {id === 2 && <img src={'/globo_girando.gif'} alt="Globo terrestre" />} */}
 
 					{id === 3 && (
 						<div className="flex gap-1 lg:gap-5 w-fit absolute -right-3 lg:-right-2">
