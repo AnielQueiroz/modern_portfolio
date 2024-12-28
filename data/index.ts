@@ -91,7 +91,7 @@ export const projects = [
 		des: "Este sistema foi criado para fornecer um ambiente interativo, com comunicações em tempo real com outros programadores.",
 		img: "/devtalk.png",
 		iconLists: ["/node.svg", "/react.svg", "/express.svg", "/tail.svg", "/ts.svg", "/socket-io.svg", "cloudinary.svg", "/mongodb.svg"],
-		link: "https://devtalk.onrender.com/",
+		link: "https://devtalk.anieldev.pro/",
 	},
 	// {
 	// 	id: 3,
